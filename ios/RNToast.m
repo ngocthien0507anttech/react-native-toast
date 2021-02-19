@@ -1,5 +1,5 @@
 #import "RNToast.h"
-#import “IOSNativeToast.h”
+#import <IOSNativeToast.h>
 
 @interface RNToast()
 
