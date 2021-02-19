@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-rn-toast.git",
-    "baseUrl": "https://github.com/github_account/react-native-rn-toast"
+    "url": "git+https://github.com/ngocthien0507anttech/react-native-toast.git",
+    "baseUrl": "https://github.com/ngocthien0507anttech/react-native-rn-toast"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "Ngoc Thien",
+    "email": "ngoc-thien.nguyen@ant-tech.eu"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
